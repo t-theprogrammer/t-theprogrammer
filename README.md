@@ -14,7 +14,7 @@
   <img align="left" alt="Tadeesha's Spotify" width="22px" src="https://github.com/TadeeshaNithesh/Tadeeshanithesh/blob/main/icons8-gmail.svg?raw=true" />
 </a>
 <br><br>
-I am Tadeesha Nithesh, and I am a Programmer, Software Developer, Game Developer and a Graphic Designer. 🇱🇰
+I am T The Programmer, and I am a Programmer, Software Developer, Game Developer and a Graphic Designer. 🇱🇰
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows&logoColor=white&color=8d81c2)
@@ -38,9 +38,9 @@ I am Tadeesha Nithesh, and I am a Programmer, Software Developer, Game Developer
 
 ## &#x1f4c8; GitHub Stats
 
-[![Tadeesha](https://github-readme-stats.vercel.app/api?username=Tadeeshanithesh&show_icons=true&theme=tokyonight)](https://github.com/Tadeeshanithesh)
+[![T The Programmer](https://github-readme-stats.vercel.app/api?username=t-theprogrammer&show_icons=true&theme=tokyonight)](https://github.com/t-theprogrammer)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadeeshanithesh&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-theprogrammer&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ##  📜  Badges and Certifications
 **Hackerrank Badges**
